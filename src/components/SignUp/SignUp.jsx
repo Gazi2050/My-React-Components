@@ -4,9 +4,9 @@ import { FcGoogle } from 'react-icons/fc';
 
 const SignUp = () => {
     return (
-        <div className="flex flex-col-reverse lg:flex-row justify-around items-center">
+        <div className="flex flex-col-reverse lg:flex-row justify-around items-center lg:px-28">
             <div>
-                <div className="m-5 lg:ml-16">
+                <div className="m-5 lg:m-0">
 
                     <p className="text-sm md:text-lg lg:text-xl font-semibold">
                         <sup>____________________</sup> Continue with <sup>____________________</sup>
